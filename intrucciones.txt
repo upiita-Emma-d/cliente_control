@@ -1,0 +1,8 @@
+Instrucciones 
+Descarge https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe 
+y copie la direecion donde se guardo su archivo.
+Se van a donde si instalo python en la caperta de scripts y en ese lugar debe de haber un archivo .py llamado .pip
+y ejecutan lo sigueinte.
+copie la carpeta Scripts requirements.txt
+y ejecute lo sigiente en la terminal 
+.\pip.exe install -r requirements.txt
