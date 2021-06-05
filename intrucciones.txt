@@ -1,5 +1,6 @@
 Instrucciones 
 Descarge https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe 
+https://www.python.org/ftp/python/3.6.0/python-3.6.0.exe
 y copie la direecion donde se guardo su archivo.
 Se van a donde si instalo python en la caperta de scripts y en ese lugar debe de haber un archivo .py llamado .pip
 y ejecutan lo sigueinte.
